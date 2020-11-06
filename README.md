@@ -2,7 +2,7 @@
 
 **Nama  : Fery Affandi** <br>
 **NIM   : 312010018** <br>
-**Kelas : TI.20.A.1
+**Kelas : TI.20.A.1**
 
 ---------------------------------------------
 Pada pertemuan 7 tugas PPT ke-2 ini, saya diberikan beberapa tugas yaitu : <br>
@@ -21,3 +21,28 @@ b = int(input("Masukkan bilangan 2: "))
 c = int(input("Masukkan bilangan 3: "))
 ```
 Masukan syntax tersebut dengan angka yang kalian inginkan. <br>
+
+![hasil2(1)](foto/hasil2(1).png)
+
+Jika sudah mendapat tampilan seperti gambar diatas, maka kalian sudah berhasil menginput ketiga data tersebut. <br>
+
+Langkah selanjutnya adalah mencari tahu nilai terbesar (max) dari ketiga data tersebut. Sebelum memulainya kalian harus memasukan terlebih dahulu berapa jumlah data yang akan kalian kerjakan dari ketiga data tersebut dengan syntax <br>
+```python
+N=int(input("banyaknya data = "))
+```
+Karena disini saya diberi tugas mencari nilai max dari ketiga data maka saya akan menggunkan semua data diatas.
+```python
+if N>0:
+    i=1
+    x=int(input("data ke -"+str(i)+"="))
+    max=x;total=x
+    for i in range(2,N+1):
+        x=int (input("data ke -"+str(i)+"="))
+        total+=x
+        if max<x:
+            max=x
+
+    print("bilangan terbesar =",max)
+```
+Selanjutnya kalian bisa langsung memasukan syntax ini untuk melengkapi syntax diatas supaya bisa berjalan dengan baik seperti pada gambar dibawah ini. <br>
+
