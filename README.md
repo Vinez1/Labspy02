@@ -46,3 +46,20 @@ if N>0:
 ```
 Selanjutnya kalian bisa langsung memasukan syntax ini untuk melengkapi syntax diatas supaya bisa berjalan dengan baik seperti pada gambar dibawah ini. <br>
 
+![hasil2(2)](foto/hasil2(2).png)
+
+Maka jika digabungkan, cara untuk mencari nilai max dari ketiga data yang diinputkan adalah dengan menggunakan syntax
+```python
+N=int(input("banyaknya data = "))
+if N>0:
+    i=1
+    x=int(input("data ke -"+str(i)+"="))
+    max=x;total=x
+    for i in range(2,N+1):
+        x=int (input("data ke -"+str(i)+"="))
+        total+=x
+        if max<x:
+            max=x
+
+    print("bilangan terbesar =",max)
+```
