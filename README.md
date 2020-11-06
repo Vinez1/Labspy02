@@ -69,7 +69,9 @@ dari rumus di atas akan menghasilkan sebuah hasil seperti dibawah ini : <br>
 
 ![hasil2(3)](foto/hasil2(3).png)
 
+ ----------------------------------
 ### MERUBAH DATA DIATAS MENJADI DALAM BENTUK FLOWCHART
+
 Setelah kalian mendapatkan semua data diatas langkah selanjutnya adalah mengubahnya menjadi dalam bentuk flowchart seperti ini <br>
 
   
