@@ -12,7 +12,8 @@ Pada pertemuan 7 tugas PPT ke-2 ini, saya diberikan beberapa tugas yaitu : <br>
 untuk mencari sebuah nilai maksimal dari 3 data yang sebelumnya telah diinput, dan setelah mendapat nilai maksimalnya, dirubah menjadi dalam sebuah bentuk flowchart
 
 # TUGAS PRAKTIKUM 2
-MENGINPUT DATA DAN MENCARI NILAI MAX <br>
+**MENGINPUT DATA DAN MENCARI NILAI MAX** <br>
+
 Pertama-tama disini saya akan mencoba untuk menginput 3 data dengan menggunakan syntax berikut terlebih dahulu. <br>
 
 ```python
@@ -63,3 +64,12 @@ if N>0:
 
     print("bilangan terbesar =",max)
 ```
+
+dari rumus di atas akan menghasilkan sebuah hasil seperti dibawah ini : <br>
+
+![hasil2(3)](foto/hasil2(3).png)
+
+### MERUBAH DATA DIATAS MENJADI DALAM BENTUK FLOWCHART
+Setelah kalian mendapatkan semua data diatas langkah selanjutnya adalah mengubahnya menjadi dalam bentuk flowchart seperti ini <br>
+
+  
