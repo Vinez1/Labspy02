@@ -74,6 +74,6 @@ dari rumus di atas akan menghasilkan sebuah hasil seperti dibawah ini : <br>
 
 Setelah kalian mendapatkan semua data diatas langkah selanjutnya adalah mengubahnya menjadi dalam bentuk flowchart seperti ini <br>
 
-coming soon
+# coming soon
 
   
