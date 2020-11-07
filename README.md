@@ -88,7 +88,7 @@ Download lah yang sesuai dengan laptop kalian agar tidak terjadi kendala saat se
 
 Setelah mendapat tampilan seperti dibawah ini kalian bisa mengklik pada bagian garis hitamnya
 
-![Flow Step1](https://user-images.githubusercontent.com/72906579/98389639-e5eaaa00-2086-11eb-9dd2-107a642334ff.png)
+![Flow Step1](foto/flow2.png)
 
 Pada tampilan diatas kalian dapat memilih menu mana yang kalian butuhkan.
 
