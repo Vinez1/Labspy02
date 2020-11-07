@@ -70,7 +70,7 @@ if N>0:
 
 Seperti inilah hasil akhirnya 
 
-![Hasil](https://user-images.githubusercontent.com/72906579/98377618-a1a3dd80-2077-11eb-9918-f355e5c74bdc.png)
+![Hasil2-3](foto/hasil2(3).png)
 
 ##### MERUBAH DATA DIATAS MENJADI DALAM BENTUK FLOWCHART
 ____________________________
