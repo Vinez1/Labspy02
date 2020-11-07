@@ -76,7 +76,7 @@ Seperti inilah hasil akhirnya
 ____________________________
 Setelah kalian mendapatkan semua data diatas langkah selanjutnya adalah mengubahnya menjadi dalam bentuk flowchart seperti ini
 
-![Flowchart](https://user-images.githubusercontent.com/72906579/98388431-55f83080-2085-11eb-9e13-0adbdae25e4d.png)
+![Flowchart](foto/flowchrt.png)
 
 Untuk bisa mendapatkan hasil flowchart diatas, maka kalian harus mendownload flowgorithm terlebih dahulu. Download lah pada web resminya yaitu 
 python
