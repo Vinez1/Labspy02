@@ -84,7 +84,7 @@ http://www.flowgorithm.org/download/index.htm
 
 Download lah yang sesuai dengan laptop kalian agar tidak terjadi kendala saat sedang mengoperasikannya.
 
-![Download Flow](https://user-images.githubusercontent.com/72906579/98425077-74325080-20c6-11eb-8cc6-4a64210e290a.png)
+![Download Flow](foto/flow1.png)
 
 Setelah mendapat tampilan seperti dibawah ini kalian bisa mengklik pada bagian garis hitamnya
 
@@ -94,6 +94,6 @@ Pada tampilan diatas kalian dapat memilih menu mana yang kalian butuhkan.
 
 Jika kalian sudah mengerjakannya hingga akhir, maka step akhir adalah kalian hanya perlu mengecek apakah flowchart tersebut sudah bekera dengan baik atau belum dengan cara sebagai berikut
 
-![Flow Step2](https://user-images.githubusercontent.com/72906579/98391855-cbfe9680-2089-11eb-8062-164af41a5509.png)
+![hasilflow](foto/hasilflow.png)
 
 Jika sudah me 'run' berkali kali dan mendapatkan jawaban sama yang sesuai itu berbarti flowchart yang kalian buat sudah benar dan bekerja dengan baik.
