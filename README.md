@@ -30,11 +30,13 @@ Jika sudah mendapat tampilan seperti gambar diatas, maka kalian sudah berhasil m
 
 Langkah selanjutnya adalah mencari tahu nilai terbesar (max) dari ketiga data tersebut. Sebelum memulainya kalian harus memasukan terlebih dahulu berapa jumlah data yang akan kalian kerjakan dari ketiga data tersebut dengan syntax <br>
 python
+```python
 N=int(input("banyaknya data = "))
+```
 
 Karena disini saya diberi tugas mencari nilai max dari ketiga data maka saya akan menggunkan semua data diatas.
 
-python
+```python
 if N>0:
     i=1
     x=int(input("data ke -"+str(i)+"="))
@@ -46,10 +48,10 @@ if N>0:
             max=x
 
     print("bilangan terbesar =",max)
-
+```
 Selanjutnya kalian bisa langsung  memasukan syntax ini untuk melengkapi syntax diatas supaya bisa berjalan dengan baik seperti pada gambar dibawah ini.
 
-![Nilai Max](https://user-images.githubusercontent.com/72906579/98377631-a49ece00-2077-11eb-9e95-67a1316b4121.png)
+![hasil2-2](foto/hasil2(2).png)
 
 Maka jika digabungkan, cara untuk mencari nilai max dari ketiga data yang diinputkan adalah dengan menggunakan syntax
 python
