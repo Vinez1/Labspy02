@@ -1,11 +1,11 @@
-# syntax untuk menginput nilai dari ke 3 bilangan ini
+# syntax untuk menginput nilai 3 bilangan
 
 a = int(input("Masukkan bilangan 1: "))
 b = int(input("Masukkan bilangan 2: "))
 c = int(input("Masukkan bilangan 3: "))
 
 
-# syntax untuk mencari nilai paling besar di antara 3 bilangan diatas
+# syntax untuk mencari nilai terbesar dari 3 bilangan diatas
 
 N=int(input("banyaknya data = "))
 if N>0:
